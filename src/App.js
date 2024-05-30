@@ -4,7 +4,10 @@ import './App.css';
 function App() {
   return (
 <div className='text-red-300'>
-  pakistan 
+  <h2>pakistan</h2>
+  <p>pakistan is beautifull city</p>
+
+  
 </div>
   );
 }
