@@ -1,14 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import NavHead from './components/NavHead';
 
 function App() {
   return (
-<div className='text-red-300'>
-  <h2>pakistan</h2>
-  <p>pakistan is beautifull city</p>
-
-  
-</div>
+<>
+<NavHead/>
+</>
   );
 }
 
